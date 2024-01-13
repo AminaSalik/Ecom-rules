@@ -10,9 +10,14 @@ e-commerce-app/
 |   |   |-- App.jsx
 |   |-- package.json
 |-- backend/
+|   |-- controllers/
+|   |-- middleware/
 |   |-- models/
 |   |-- routes/
-|   |-- server.js
+|   |-- Utils/
+|   |-- .env/
+|   |-- .gitignore/
+|   |-- app.js
 |   |-- package.json
 |-- .env.example
 |-- README.md
